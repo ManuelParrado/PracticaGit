@@ -24,8 +24,8 @@ public class Calculadora {
 			switch (opcion) {
 			case 1: {
 				System.out.println("Suma");
-				System.out.println(num1+" + "+num2+" = "+(num1+num2));
 				System.out.println("commit 1");
+				System.out.println("Subida 1");
 				break;
 			}
 			default:
