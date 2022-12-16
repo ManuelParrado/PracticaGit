@@ -26,6 +26,8 @@ public class Calculadora {
 				System.out.println("Suma");
 				System.out.println(num1+" + "+num2+" = "+(num1+num2));
 				System.out.println("commit 1");
+				System.out.println("commit 2");
+				System.out.println("commit 3");
 				break;
 			}
 			default:
